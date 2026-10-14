@@ -1,0 +1,59 @@
+{
+  "source": "Original procedural 3D scenes created for this application",
+  "renderer": "Blender 4.2.23 / Cycles",
+  "scene_script": "android/design-assets/render_geometry.py",
+  "reference": "Kenney Background Elements sheet: cloud, hill and geometric tree vocabulary only; no source imagery embedded",
+  "backgrounds": [
+    {
+      "name": "雾蓝云谷",
+      "asset": "backgrounds/geometry_01.webp",
+      "output_size": [
+        1080,
+        2160
+      ],
+      "output_sha256": "e573187a78b37d1e99e9df5ecbc90642a9357835a87b865c460615ef978e98cb",
+      "render_sha256": "a8472daed3f079c48089b257b9444ab35cc84387532aa789c45a3ce045a6dd0d",
+      "scene_sha256": "23e85753ff5a28a11a1bba503206aace57daa56967776a5d78626e94e059f42c"
+    },
+    {
+      "name": "冰蓝层峦",
+      "asset": "backgrounds/geometry_02.webp",
+      "output_size": [
+        1080,
+        2160
+      ],
+      "output_sha256": "9477c0745018e94c391b70fe29919769e5a1ec72020520397c6b59acc0523763",
+      "render_sha256": "f5fee5c4cc1f6a484623dc8cafd2f680f8ad6bb6a91717b793d9595117281117",
+      "scene_sha256": "34897aaabeb57fc6810dfc64f8ac6a1ebdd637c5b6a35bee88d81885d2044d95"
+    },
+    {
+      "name": "晨光浮丘",
+      "asset": "backgrounds/geometry_03.webp",
+      "output_size": [
+        1080,
+        2160
+      ],
+      "output_sha256": "ee3f839da9de67b302e1cc554daa42073c9077f4d99fa86e27dcf2d3e53e1a31",
+      "render_sha256": "dfcfefb12401fa15c9b8eb20f4599f4f4344241aca676b92c05d9661daae461d",
+      "scene_sha256": "b358ccd4e7f1fd2bf19c5ed94f90ece0f4730ab76b1ce32cf98c82209e20744b"
+    }
+  ],
+  "navigation": {
+    "running_source": "art/mascots/01_01_running.webp",
+    "normal_source": "E:\\ai.q.ecust.as\\01-原图截取6张\\01-尴尬-正常.png",
+    "normal_head_crop": [
+      80,
+      92,
+      305,
+      297
+    ],
+    "running_output_size": [
+      243,
+      359
+    ],
+    "head_output_size": [
+      219,
+      205
+    ]
+  }
+}

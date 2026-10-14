@@ -1,0 +1,9 @@
+<resources>
+    <item name="map_zoom_in" type="id" />
+    <item name="map_zoom_out" type="id" />
+    <item name="map_reset" type="id" />
+    <string name="map_zoom_in">放大地图</string>
+    <string name="map_zoom_out">缩小地图</string>
+    <string name="map_reset">回到校园全图</string>
+    <string name="detail_toggle">%1$s  %2$s</string>
+</resources>

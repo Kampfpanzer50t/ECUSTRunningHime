@@ -1,0 +1,8 @@
+Pillow>=10
+fonttools>=4.50
+numpy>=1.26
+cryptography>=42
+tree-sitter>=0.24
+tree-sitter-swift
+tree-sitter-bash
+pbxproj>=4

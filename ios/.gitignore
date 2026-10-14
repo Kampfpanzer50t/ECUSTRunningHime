@@ -1,0 +1,11 @@
+Exports/
+companion/private/
+node_modules/
+__pycache__/
+*.pyc
+*.p12
+*.mobileprovision
+*.pem
+*.key
+huati-session.json
+**/xcuserdata/

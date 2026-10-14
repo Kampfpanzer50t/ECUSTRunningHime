@@ -1,0 +1,7 @@
+<resources>
+    <string name="progress_status">%1$s%2$s%3$s</string>
+    <string name="results_with_time">%1$s\n\n更新于 %2$s</string>
+    <string name="sms_wait">%1$d 秒后重新获取</string>
+    <string name="daily_time_title">每天 %1$s 开始 · 至少 2.10 公里 · 15 分钟</string>
+    <string name="zero_distance">0.00</string>
+</resources>

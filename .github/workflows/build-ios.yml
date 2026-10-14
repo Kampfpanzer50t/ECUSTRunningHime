@@ -1,0 +1,41 @@
+name: Build iPhone IPA
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Locate project
+        shell: bash
+        run: |
+          if [[ -f ios/Huati.xcodeproj/project.pbxproj ]]; then
+            printf 'APP_DIR=ios\n' >> "$GITHUB_ENV"
+          elif [[ -f Huati.xcodeproj/project.pbxproj ]]; then
+            printf 'APP_DIR=.\n' >> "$GITHUB_ENV"
+          else
+            printf '%s\n' 'Upload the complete Xcode project, not only this workflow.' >&2
+            exit 1
+          fi
+      - name: Local scheduling and executor regression tests
+        working-directory: ${{ env.APP_DIR }}
+        run: node --test Tests/core.test.cjs Tests/companion.test.cjs
+      - name: Compile and run native XCTest on an available iPhone simulator
+        working-directory: ${{ env.APP_DIR }}
+        run: bash Verify-iOS.command
+      - name: Build ARM64 device IPA without signing
+        working-directory: ${{ env.APP_DIR }}
+        run: bash Build-Unsigned-IPA.command
+      - name: Downloadable unsigned IPA
+        uses: actions/upload-artifact@v4
+        with:
+          name: Huati-v2.0.6-unsigned-IPA
+          path: ${{ env.APP_DIR }}/Exports/Unsigned/Huati-v2.0.6-unsigned.ipa
+          if-no-files-found: error
+          retention-days: 14

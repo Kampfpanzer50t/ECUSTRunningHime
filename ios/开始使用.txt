@@ -1,0 +1,6 @@
+华理跑步姬 iOS 2.0.6 源码
+
+Mac：打开 Huati.xcodeproj，在 Xcode 中选择自己的开发者 Team 编译安装。
+Windows：上传仓库后手动运行 Actions 的 Build iPhone IPA，下载未签名 IPA，再用自己的有效苹果签名方式安装。
+
+完整说明见 README.md；此目录没有账号会话、签名文件或 IPA。

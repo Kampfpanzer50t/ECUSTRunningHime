@@ -1,0 +1,28 @@
+{
+  "name": "huati-desktop",
+  "productName": "华理跑步姬",
+  "version": "2.1.1",
+  "description": "华理跑步姬 Windows 桌面版",
+  "author": "Huati Assistant",
+  "license": "UNLICENSED",
+  "main": "main.cjs",
+  "scripts": {
+    "stage": "node build.cjs",
+    "start": "node build.cjs && electron .",
+    "test": "node build.cjs && node --test tests/*.test.cjs",
+    "dist": "node build.cjs && electron-builder --win portable --x64"
+  },
+  "devDependencies": {
+    "electron": "44.7.2",
+    "electron-builder": "26.15.3"
+  },
+  "build": {
+    "appId": "local.huati.desktop",
+    "asar": true,
+    "electronDist": "node_modules/electron/dist",
+    "directories": {"output": "../dist/windows-v2.1.1", "buildResources": "resources"},
+    "files": ["main.cjs", "engine.cjs", "preload.cjs", "ui/**", "vendor/**", "resources/app.ico", "package.json"],
+    "win": {"icon": "resources/app.ico", "target": ["portable"], "signExecutable": false},
+    "portable": {"artifactName": "huati-desktop-v${version}-windows-x64.exe", "requestExecutionLevel": "user"}
+  }
+}

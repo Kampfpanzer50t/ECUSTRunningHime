@@ -1,0 +1,510 @@
+{
+  "wallpaper_count": 19,
+  "mascot_count": 36,
+  "icon_source": "E:\\ai.q.ecust.as\\01-原图截取6张\\04-尴尬-跑步.png",
+  "head_crop_pixels": [
+    80,
+    100,
+    286,
+    291
+  ],
+  "asset_bytes": 37707280,
+  "sources": [
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\01-embarrassed-hands-v2.png",
+      "sha256": "534aa0ac79b99e48d27859bbfd692d533e53d9cdeb514bf1c680ae992f19f589",
+      "asset": "wallpapers/scene_01.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\02-unimpressed-hands-v2.png",
+      "sha256": "42a3bd5cb98763b061b0f330c17887b66db1a70905fc5f0ce00ce6e77d336202",
+      "asset": "wallpapers/scene_02.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\02-旗袍-无语.png",
+      "sha256": "eb87cf74404371a691cf737d57d8c7fc8ef4562b51d31c350763e61017ce97da",
+      "asset": "wallpapers/scene_03.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\03-sleepy-hands-v2.png",
+      "sha256": "c51a0db0f4709dff17c5c46443908603e782eb61e7b865e9d32816ac33320a93",
+      "asset": "wallpapers/scene_04.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\03-汉服-无语.png",
+      "sha256": "1c6db66c209c9db13c3cdb48e0268bf7e7e1666bac574715737660dc73986995",
+      "asset": "wallpapers/scene_05.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\04-晚礼服-无语.png",
+      "sha256": "c48cc4eb2a604b76a23722eeba055823418df0c41d92e3744083eef4e49274a2",
+      "asset": "wallpapers/scene_06.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\05-护士服-无语.png",
+      "sha256": "4d72a8a02211130c395445842e8092e73834560be6da52b0bafba6376f6a3585",
+      "asset": "wallpapers/scene_07.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_18_19.png",
+      "sha256": "f0979a734f68d82bef4950632ab8276a741020d9aa636c3b451054fd74f2d1e0",
+      "asset": "wallpapers/scene_08.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_18_38.png",
+      "sha256": "0261178472346bb8e3b251d35b65d77f07ec92d859988f264c841a8322613374",
+      "asset": "wallpapers/scene_09.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_19_04.png",
+      "sha256": "d887af5392547c3519d15fbd4c13cb1743fff88ce4f85c1a6f415cc2b595b2d1",
+      "asset": "wallpapers/scene_10.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_19_47.png",
+      "sha256": "9e4cc1b1d72b6ce8519ef1191cce80fd32deec4c33e46258e8d3862e9dd56b51",
+      "asset": "wallpapers/scene_11.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_20_08.png",
+      "sha256": "7a763f61da67186326de8bf1b5ba3b209d17ab11f9c5354be6f7f7aa671c9606",
+      "asset": "wallpapers/scene_12.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_20_55.png",
+      "sha256": "0cff8d1f3a7e26b8db77bc8920fbcdef14ddffe336cfefa0ed9126220141f3fb",
+      "asset": "wallpapers/scene_13.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_21_09.png",
+      "sha256": "4a9be68e3ab1e440dad7ffa36240d38ecb2036817c681a3664243033c57c9626",
+      "asset": "wallpapers/scene_14.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_22_21-hands-v2.png",
+      "sha256": "d99ff14eaf30df3b1f88f7df33c5e53e9bc425124219c398b677197db402661b",
+      "asset": "wallpapers/scene_15.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_22_33-hands-v2.png",
+      "sha256": "0427d69f4d165bbfaf218e0506e088a6dd94a721671e71a7db804afc395d78e5",
+      "asset": "wallpapers/scene_16.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_22_47-hands-v2.png",
+      "sha256": "5db65bcedabf7fd97a0b764960277b94dc617ccb120cec574d6791c0e31005fe",
+      "asset": "wallpapers/scene_17.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_23_10-hands-v2.png",
+      "sha256": "27748f71d3d2c9be6c4ca6b4a54d66c3cad4c2a928981421355c5a442565e1b6",
+      "asset": "wallpapers/scene_18.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\picture.ai.ecust.assistant\\ChatGPT 图像 2026年10月12日 19_23_25-hands-v2.png",
+      "sha256": "da2abcbc9e3eca6195ab7053a110bd59ae05226643e5a4c86e66c728f8a6bb53",
+      "asset": "wallpapers/scene_19.webp",
+      "size": [
+        1024,
+        1536
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\01-原图截取6张\\01-尴尬-正常.png",
+      "sha256": "f56fa2207eb3b32e72b0423aa4dbff90e486619d51ea60361147b3667d4915e4",
+      "asset": "mascots/01_01_normal.webp",
+      "size": [
+        231,
+        424
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\01-原图截取6张\\04-尴尬-跑步.png",
+      "sha256": "2a20fbc27b2ffaaef47008de62ebff8cacbb3d4c2468c47160d58ee2e1378e1f",
+      "asset": "mascots/01_01_running.webp",
+      "size": [
+        243,
+        359
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\01-原图截取6张\\02-无语-正常.png",
+      "sha256": "fe92623b58d7010ba85b20ec1f8f3dfb64289cc6617a655235afb230e16760b1",
+      "asset": "mascots/01_02_normal.webp",
+      "size": [
+        222,
+        441
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\01-原图截取6张\\05-无语-跑步.png",
+      "sha256": "785a273a37377f3afca199f6866ebedc41abd753d469b54aef4dd5b5c2e4aa22",
+      "asset": "mascots/01_02_running.webp",
+      "size": [
+        227,
+        380
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\01-原图截取6张\\03-困-正常.png",
+      "sha256": "ad7f994347264ce8a06aa5070002a85e19a123c61fe0382578aacd7754d8d41c",
+      "asset": "mascots/01_03_normal.webp",
+      "size": [
+        227,
+        427
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\01-原图截取6张\\06-困-跑步.png",
+      "sha256": "825f8f9d056ca326b310664a17a1e45e8951316a75b0a994ed67894857b342ee",
+      "asset": "mascots/01_03_running.webp",
+      "size": [
+        231,
+        377
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\02-运动服\\01-尴尬-正常.png",
+      "sha256": "4eef81a9fdc6714005690058c041fd9c22222a9b060f95f07e7aa9465418f163",
+      "asset": "mascots/02_01_normal.webp",
+      "size": [
+        437,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\02-运动服\\04-尴尬-跑步.png",
+      "sha256": "9fb688caa9b7489749a836bcf6840e06a4995338f2fb79582673484e54431e25",
+      "asset": "mascots/02_01_running.webp",
+      "size": [
+        554,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\02-运动服\\02-无语-正常.png",
+      "sha256": "c9130190c5dc7f528d83d9477fce0013482dc64592fec3940681258e276ebc81",
+      "asset": "mascots/02_02_normal.webp",
+      "size": [
+        452,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\02-运动服\\05-无语-跑步.png",
+      "sha256": "2a2de6a5c999175648e7371efa6050a0de388dad5c2639ffb2a0128551c07206",
+      "asset": "mascots/02_02_running.webp",
+      "size": [
+        528,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\02-运动服\\03-困-正常.png",
+      "sha256": "d24869dd774450193c3746fce50da85a154238f07eff6545a1eb17ab06e6b234",
+      "asset": "mascots/02_03_normal.webp",
+      "size": [
+        439,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\02-运动服\\06-困-跑步.png",
+      "sha256": "c57f9cbb59ba54631a4a44a8468ef52b651fa55563da3d463a1514b3482869e4",
+      "asset": "mascots/02_03_running.webp",
+      "size": [
+        557,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\03-女仆装\\01-尴尬-正常.png",
+      "sha256": "9768e7000e145054a485935ca260b4e71d412a2fde77a181a9851f08f82d81a5",
+      "asset": "mascots/03_01_normal.webp",
+      "size": [
+        457,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\03-女仆装\\04-尴尬-跑步.png",
+      "sha256": "2cb391952c405a382520dec671202326504b46ed10100c018795b2808064ba5d",
+      "asset": "mascots/03_01_running.webp",
+      "size": [
+        541,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\03-女仆装\\02-无语-正常.png",
+      "sha256": "e04a73888319351b992b15a0add1ca546c31b95338eab3c6007eb00788935d4d",
+      "asset": "mascots/03_02_normal.webp",
+      "size": [
+        474,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\03-女仆装\\05-无语-跑步.png",
+      "sha256": "95c187e63b94cfbdaf9a692fa061f444e6bfb80e69e5e361a1949c9e0e085859",
+      "asset": "mascots/03_02_running.webp",
+      "size": [
+        522,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\03-女仆装\\03-困-正常.png",
+      "sha256": "7dab3f61276bf2646ad614947da48c87ac2d161871dfb6b8e13c15c9f4c7751d",
+      "asset": "mascots/03_03_normal.webp",
+      "size": [
+        464,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\03-女仆装\\06-困-跑步.png",
+      "sha256": "29654191f2adf466d29fdca7e490951b0d73a265934b7bca42c8fe8b457e1c54",
+      "asset": "mascots/03_03_running.webp",
+      "size": [
+        551,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\04-水手服\\01-尴尬-正常.png",
+      "sha256": "015929427d61372dece1cb4f72a5c7e13ac043071f1a0befe9b9ad097c84af60",
+      "asset": "mascots/04_01_normal.webp",
+      "size": [
+        459,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\04-水手服\\04-尴尬-跑步.png",
+      "sha256": "6fb1bd0e6a6fdbbecf7f8594ed85e795d0bfd4e70dac22711249ba559bbbcfd4",
+      "asset": "mascots/04_01_running.webp",
+      "size": [
+        549,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\04-水手服\\02-无语-正常.png",
+      "sha256": "cc0a7102efb579187a13771b87491bfdcfee7ca19d8bd857e8d6ffd44447727b",
+      "asset": "mascots/04_02_normal.webp",
+      "size": [
+        466,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\04-水手服\\05-无语-跑步.png",
+      "sha256": "fd559270409fe6fc99f252099650670a6cd6bce8f530645e53ba757864a7360a",
+      "asset": "mascots/04_02_running.webp",
+      "size": [
+        555,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\04-水手服\\03-困-正常.png",
+      "sha256": "a84951ce93fb9c4b5f6888e0a9307af020e25a18db18b5ecb01a4c9c6207169d",
+      "asset": "mascots/04_03_normal.webp",
+      "size": [
+        473,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\04-水手服\\06-困-跑步.png",
+      "sha256": "7075aad0b17b75304091d016f256363ac67c025bd4c32e8ca407fbb06315fda7",
+      "asset": "mascots/04_03_running.webp",
+      "size": [
+        539,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\05-汉服\\01-尴尬-正常.png",
+      "sha256": "2a020d1c8150473e8784684e097af834fae08387e6be684c8982d466cd3d29d5",
+      "asset": "mascots/05_01_normal.webp",
+      "size": [
+        463,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\05-汉服\\04-尴尬-跑步.png",
+      "sha256": "bf96a84164781b931b9f90557e5c3c88809f9f9e2ee76d2a2f211df0c49e2ea4",
+      "asset": "mascots/05_01_running.webp",
+      "size": [
+        552,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\05-汉服\\02-无语-正常.png",
+      "sha256": "ad7a5d8a728a411ab32ea2758a170c6e97a0545eccce8c7a8567d419b6704fa8",
+      "asset": "mascots/05_02_normal.webp",
+      "size": [
+        408,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\05-汉服\\05-无语-跑步.png",
+      "sha256": "58aa42b098abef73d66a7c801b9ba64256988ca14b4c6c1cd60b82e1178e7ab0",
+      "asset": "mascots/05_02_running.webp",
+      "size": [
+        528,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\05-汉服\\03-困-正常.png",
+      "sha256": "0b1e795fc122608429370b325cc88ffbbd57a6e4829023ee8ffc51f1455716a5",
+      "asset": "mascots/05_03_normal.webp",
+      "size": [
+        466,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\05-汉服\\06-困-跑步.png",
+      "sha256": "1d2c7fbcf24f414f414121e71be4d65a6982c1c461cfd0e4bf0d304861ee3a67",
+      "asset": "mascots/05_03_running.webp",
+      "size": [
+        543,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\06-侦探装\\01-尴尬-正常.png",
+      "sha256": "bcf870cfd6cd6d10756bac1957b2ea013c75963e8a4f65d2e45a6d37edc02bda",
+      "asset": "mascots/06_01_normal.webp",
+      "size": [
+        467,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\06-侦探装\\04-尴尬-跑步.png",
+      "sha256": "38a61e1fc3f19048639a1f6bf5501f585c5cacbce945e1cdb4422874e66f84e8",
+      "asset": "mascots/06_01_running.webp",
+      "size": [
+        735,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\06-侦探装\\02-无语-正常.png",
+      "sha256": "d420c4fc5be09c68aa998721281529a3d610f50207347f274d843d49d97ed630",
+      "asset": "mascots/06_02_normal.webp",
+      "size": [
+        443,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\06-侦探装\\05-无语-跑步.png",
+      "sha256": "7d21e61dfbe5dd71ed2480489294b801c2da6202259f8e338a8b4d21c1a2218c",
+      "asset": "mascots/06_02_running.webp",
+      "size": [
+        505,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\06-侦探装\\03-困-正常.png",
+      "sha256": "cb6f5de52d4ac9dd3b83fb238b36ec116cb44ab62066d5ae7f72ea3f132ce2b0",
+      "asset": "mascots/06_03_normal.webp",
+      "size": [
+        452,
+        768
+      ]
+    },
+    {
+      "source": "E:\\ai.q.ecust.as\\06-侦探装\\06-困-跑步.png",
+      "sha256": "a5cf5e77ff3c9a827abb0d87e5bc07984b1ebd57894131773dfaf407d43ab4eb",
+      "asset": "mascots/06_03_running.webp",
+      "size": [
+        538,
+        768
+      ]
+    }
+  ],
+  "wallpaper_source_folder": "E:\\picture.ai.ecust.assistant"
+}

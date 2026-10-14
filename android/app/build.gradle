@@ -1,0 +1,26 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'cn.huati.assistant'
+    compileSdk 35
+    buildToolsVersion '35.0.0'
+    defaultConfig {
+        applicationId 'cn.huati.assistant'
+        minSdk 26
+        targetSdk 35
+        versionCode 19
+        versionName '2.0.5'
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    testOptions { unitTests.returnDefaultValues = true }
+    buildFeatures { buildConfig true }
+    androidResources { noCompress += ['ttf'] }
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.13.2'
+    testImplementation 'org.json:json:20240303'
+}

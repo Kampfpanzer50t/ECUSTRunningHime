@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">华理跑步姬</string>
+    <string name="splash_tip">tips：%1$s</string>
+    <string name="splash_vertical_first">华理跑步姬—</string>
+    <string name="splash_vertical_second">跑步记录模拟</string>
+    <string-array name="running_tips">
+        <item>先热身，再出发，让身体慢慢进入节奏。</item>
+        <item>肩膀放松，保持自然呼吸，找到舒服的步频。</item>
+        <item>天气炎热时避开暴晒，及时补充水分。</item>
+        <item>跑完别急着坐下，慢走几分钟再休息。</item>
+        <item>校园路口多留意行人，跑步也要看路。</item>
+        <item>穿合脚的运动鞋，舒适比速度更重要。</item>
+        <item>循序渐进地增加运动量，给身体留出恢复时间。</item>
+        <item>下雨路滑时放慢脚步，小心转弯和台阶。</item>
+        <item>保持规律作息，好的休息也是训练的一部分。</item>
+        <item>呼吸不顺或身体不舒服时，及时停下休息。</item>
+        <item>把目光放远一点，跑出属于自己的节奏。</item>
+        <item>跑前检查鞋带，细小准备能让出发更安心。</item>
+        <item>夜跑选择明亮路段，注意来往车辆。</item>
+        <item>运动后温和拉伸，不要勉强追求幅度。</item>
+        <item>和昨天的自己比，每一次实际运动都值得记录。</item>
+        <item>模拟路线仅供演示，真实运动才让身体更健康。</item>
+        <item>先看天气再出门，让每一次运动都更从容。</item>
+        <item>让脚步轻一些，保持稳定比突然冲刺更舒服。</item>
+        <item>跑步途中留意身体感受，不必追赶别人的配速。</item>
+        <item>带着好心情出发，也记得给自己留出休息日。</item>
+    </string-array>
+</resources>
